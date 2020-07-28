@@ -1,0 +1,1 @@
+Layout responsivo com HMTL, CSS e JS puros.
